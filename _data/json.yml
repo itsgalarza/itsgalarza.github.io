@@ -1,0 +1,36 @@
+- key: Title
+  value: Hey, Im Javier Galarza 🤓
+- key: Description
+  value:
+    - This is not an error!
+    - This is my tiny space in JSON Format
+    - Welcome! 🥰 
+  typed: true
+- key: About Me
+  value:
+    - Principal Data Engineer @ Schneider Electric
+    - Freelance Tech Instructor - Data Engineering / Machine Learning / DataOps
+- key: My Favourite Things
+  value: 
+    - (Real) Paella
+    - Sunny Sundays
+    - Plants
+    - When I forget about my coffee but I recall soon enough before it gets too cold
+- key: Resume
+  value: GalarzaJavier.pdf
+  url: /cv.pdf
+- key: Contact
+  value:
+    - key: Office
+      value: Foobar Hall 1.23
+    - key: Email
+      value: username@domain.com
+      url: "mailto:username@domain.com"
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/jgalarza/
+    - value: GitHub
+      url: https://github.com/itsgalarza
+    - value: Medium
+      url: https://medium.com/@itsgalarza
